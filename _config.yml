@@ -18,9 +18,9 @@ email: "123asd@gmail.com"
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "/phantom/" # the subpath of your site, e.g. /blog
 url: "https://sumayaaden.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: "jamigibbs"
-github_username: "jamigibbs"
-medium_username: "blog.jamigibbs.com"
+twitter_username: "sumayaaden"
+github_username: "sumayaaden"
+medium_username: ""
 
 # Build settings
 markdown: kramdown
