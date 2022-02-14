@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: inner
 position: left
 date: 2021-10-01
@@ -24,4 +24,4 @@ project_link: 'https://github.com/jamigibbs'
 button_icon: 'flask'
 button_text: 'Visit Project'
 lead_text: "A minimalist Jekyll theme that you're looking at it right now"
---- -->
+--- --> -->
